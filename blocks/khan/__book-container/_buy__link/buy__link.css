@@ -1,0 +1,12 @@
+.buy__link {
+  position: absolute;
+  margin-top: 68px;
+  line-height: 42px;
+  font-size: 30px;
+  font-weight: normal;
+}
+
+.buy__link:hover {
+  opacity: 0.6;
+  transition: 0.35s;
+}
